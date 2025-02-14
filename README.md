@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lolerose-data
 - 👀 I’m interested in all things data analysis
-- 🌱 I’m currently learning Web scoping 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on any data analysis projects 
 - 📫 How to reach me via email rosekathinilole@gmail.com 
 
