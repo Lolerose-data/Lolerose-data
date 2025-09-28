@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Lolerose-data
-- 👀 I’m interested in all things data analysis
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on any data analysis projects 
-- 📫 How to reach me via email rosekathinilole@gmail.com 
+ Hi there, I'm Rose Lole 👋
 
-<!---
-Lolerose-data/Lolerose-data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Data Analyst** who loves working with data to solve real-world problems. Whether it’s cleaning messy datasets, writing complex SQL queries, or creating insightful dashboards, I enjoy every step of the data journey.
+
+### 💼 What I Work With:
+- **Tools:** Excel, Power BI, Jupyter Notebook, VSCode
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Databases:** MySQL, PostgreSQL, SQLite
+
+### 📌 Projects I'm Proud Of:
+*(Coming soon — updating this section with my best work!)*
+
+
+
+### 🌐 Connect With Me:
+- [LinkedIn](https://ke.linkedin.com/in/roselole)
+- 📧 rosekathinilole@gmail.com
